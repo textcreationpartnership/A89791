@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The excellency and lawfulnesse of the Solemne league and covenant. Set forth in a speech, or exhortation made by Mr. Phillip Nye to the Honorable House of Commons and reverend assembly of ministers at their taking the said Solemne league and covenant.</title>
+            <author>Nye, Philip, 1596?-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89791</idno>
+            <idno type="STC">Wing N1491</idno>
+            <idno type="STC">Thomason E318_7</idno>
+            <idno type="STC">ESTC R200550</idno>
+            <idno type="EEBO-CITATION">99861267</idno>
+            <idno type="PROQUEST">99861267</idno>
+            <idno type="VID">158997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158997)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E318[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The excellency and lawfulnesse of the Solemne league and covenant. Set forth in a speech, or exhortation made by Mr. Phillip Nye to the Honorable House of Commons and reverend assembly of ministers at their taking the said Solemne league and covenant.</title>
+                  <author>Nye, Philip, 1596?-1672.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson, for Tho. Vnderhill, at the signe of the Bible in Wood-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 26 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652) --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158997:1" rendition="simple:additions"/>
+            <p>THE EXCELLENCY AND LAWFVLNESSE of the Solemne League and COVENANT.</p>
+            <p>Set forth in a Speech, or Exhortation made by M<hi rend="sup">r.</hi> 
+               <hi>Phillip Nye</hi> to the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons and Reverend Aſſembly of Mini<g ref="char:EOLhyphen"/>ſters at their taking the ſaid Solemne
+<hi>LEAGVE</hi> and <hi>COVENANT.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Wilſon,</hi> for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill,</hi> at the ſigne of the <hi>Bible</hi> in <hi>Wood-ſtreet.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb facs="tcp:158997:2"/>
+            <pb facs="tcp:158997:2"/>
+            <head>An Exhortation made to the Honorable Houſe of Commons and Re<g ref="char:EOLhyphen"/>verend Aſſembly of Miniſters by M. <hi>Nye,</hi> at their taking the Solemne League and Covenant <hi>Sept.</hi> 25.
+1643.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Great and ſolemne worke (Honorable and Reverend) this day is put into our hands, let us ſtir up and awaken our hearts unto it. We deale with God as well as with men, and with God in his greatneſſe and excellencie, for by him we ſweare, and at the ſame time wee have to doe with with God and his goodneſſe, who now reacheth out unto us a ſtrong and ſeaſo<g ref="char:EOLhyphen"/>nable arme of aſsiſtance. The goodneſſe of God procuring ſuccour and helpe to a ſinfull and afflicted people (ſuch as we) ought to be matter of feare and trembling even to all that beare of it,
+<hi>Jer.</hi> 33.9. Wee are to exalt and acknowledge him this day who is fearefull in praiſes, ſweare by that name which is holy and reverent, enter into a Covenant and League that is never to be forgotten by us nor our poſterity, and the fruit I hope of it ſhall be ſo great, as both we and they ſhall have cauſe to remember it with joy; and ſuch an Oath as for matter, perſons, and other circumſtances, the like hath not beene in any age or Oath we reade of in ſacred or humane Stories, yet ſufficiently warranted in both.</p>
+            <p>The parties ingaging in this league are three Kingdomes, famous for the knowledge, and acknowledgement of Chriſt above all the Kingdomes in the world; to ſweare be<g ref="char:EOLhyphen"/>fore ſuch a preſence, ſhould mould the ſpirit of man into a great deale of reverence; what then to be engaged, to be incorporated, and that by ſacred Oath, with ſuch an high and Honorable Fraternity? An Oath is to be eſteemed ſo much the more ſolemne, by how much greater the perſons are that ſweare each to other: as in heaven when God ſweares to his Son, on earth when Kings ſweare each to other; ſo in this buſineſſe, where Kingdomes ſweare mutually.</p>
+            <p>And as the ſolemnitie of an Oath is to be meaſured by the perſons ſwearing, ſo by the matter alſo that is to be ſworne to; God would not ſweare to the Covenant of workes, he intended not to honour it ſo much, it was not to continue, it was not worthy of an Oath of his; but to the Covenant of grace, which is the Goſpel, he ſweares and repents not of it. God ſweares for the ſalvation of men, and of Kingdomes: And if Kingdomes ſweare, what ſubject of an Oath becommeth them better then the preſervation and ſalvation of Kingdomes, by eſtabliſhing the Kingdome of a Saviour amongſt them, even our Lord and Saviour Jeſus Chriſt, who is a Mediator and ſaviour for Nations as well as particular perſons.</p>
+            <p>The end alſo is great and honorable, as either of the former, <hi>Two is better then one</hi> ſaith he who beſt knoweth what is beſt; and from whom alone every thing hath the goodneſſe it hath. Aſſociation is of divine Ofspring; not only the being of Creatures, but the putting of them together: the cluſter as well as the grape is the worke of God: conſort and harmony amongſt men, eſpecially amongſt Saints, is very pleaſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng unto the
+<pb n="2" facs="tcp:158997:3"/> Lord. If when but two or three agree and aſſent upon any thing on earth, it ſhall bee confirmed in heaven: and for this, becauſe they gather together in his name, much more when two or three Kingdomes ſhall meet and conſent together <hi>in his name</hi> and
+<hi>for his name, that God may be one, and his name one amongſt them,</hi> and his preſence amidſt them. That prayer of Chriſts ſeemeth to proceede from a feeling ſenſe of his own bleſ<g ref="char:EOLhyphen"/>ſedneſſe; <hi>Father, that they may be one, as thou in me, &amp;c.</hi> Unity amongſt his Chur<g ref="char:EOLhyphen"/>ches and Children muſt needs therefore be very acceptable unto him: For out of the more deepe ſenſe deſires are fetcht from within us, the more pleaſ ng will be the anſwer of them unto us. Churches and Kingdomes are deare to God, his patience towards them, his compaſsions over them, more then particular perſons, ſheweth it plainely. But Kingdomes willingly engaging themſelves for his Kingdome, his Chriſt, his Saints, the purity of Religion, his worſhip, and Governement, in all particulars, and in all humility, fitting downe at his feet to receive the law and the rule from his mouth; what a price doth he ſet upon ſuch? Eſpecially when (as we this day) ſen<g ref="char:EOLhyphen"/>ſible of our infirmity, of an unfaithfull heart, not ſteady with our God, but apt to ſtart from the cauſe, if we feele the knife or the fire; who binde our ſelves with cords, as a ſacrifice to the hornes of the Altar. Wee invocate the name of the great God, that his vowes, yea his curſe may be upon us, if we doe not this; yea though wee ſuffer for ſo doing: that is, if wee endeavour not ſo far as the Lord ſhall aſsiſt us by his grace, to advance the Kingdome of the Lord Jeſus Chriſt hereupon earth, and make Jeruſalem once more the praiſe of the whole world, notwithſtanding all the contradictions of men.</p>
+            <p>What is this but the contents and matter of our Oath? What doe wee covenant? What doe we vow? Is it not the preſervation of Religion, where it is reformed, and the Reformation of Religion, where it needs? Is it not the Reformation of three King<g ref="char:EOLhyphen"/>domes, and a Reformation univerſall, Doctrine, Diſcipline, and Worſhip, in whatſoe<g ref="char:EOLhyphen"/>ver the Word ſhall diſcover unto us? To practiſe, is a fruit of love; to reforme, a fruit zeale; but ſo to reforme, will be a token of great prudence, and circumſpection in each of theſe Churches. And all this to be done according to Gods word, the beſt Rule, and according to the beſt reformed Churches, the beſt interpreters of this Rule. If <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath obtained to any greater perfection in ſo handling the word of righteouſneſse, and truths, that are according to godlineſse, as to make men more godly, more righteous: And if in the Churches of <hi>Scotland</hi> any more light and beauty in matters of Order &amp; Diſcipline, by which their Aſsemblies are more orderly: Or if to any other Church or perſon it hath been given better to have learned Chriſt in any of his waies then any of us: we ſhall humbly bow, and kiſse their lips that can ſpeake right words unto us in this matter, and helpe us in the neareſt uniformity with the word and minde of Chriſt in this great worke of Reformation.</p>
+            <p>Honorable and Reverend Bretheren, there cannot be a more direct and effectuall way to exhort and perſwade the wife, and men of ſad and ſerious ſpirits (and ſuch are you to whom I am commanded to ſpeake this day) then to let into their underſtandings the weight, and worth, and great importance of the worke they are perſwaded unto. This Oath is ſuch, and in the matter and conſequence of it, of ſuch concernement, as I can tru<g ref="char:EOLhyphen"/>ly ſay, it is worthy of us, yea of all theſe Kingdomes, yea of all the Kingdomes of the World; for it is ſwearing fearly and allegiance unto Chriſt the King of Kings; and a giving up of all theſe Kingdomes, which are his inheritance, to be ſubdued more to his Throne, and ruled more by his Scepter, upon whoſe ſhoulders the government is laid, and <hi>in the encreaſe of whoſe Government and peace there ſhall be no end, Eſa.</hi> 9. Yea, wee finde this very thing in the utmoſt accompliſhment of it, to have beene the Oath of the greateſt Angel that ever was, who ſetting his feet upon two of Gods Kingdomes, the one upon the Sea, the other upon the Earth, lifting up his hand to heaven, as you are
+<pb n="3" facs="tcp:158997:3"/> to doe this day, and ſo ſwearing, <hi>Revel.</hi> 10. The effect of that Oath you ſhall finde to bee this, that the kingdomes of the world become the kingdomes of the Lord and his Chriſt, and he ſhall reigne for ever, <hi>Revel.</hi> 11. His Oath was for the full and finall ac<g ref="char:EOLhyphen"/>compliſhment, this of yours for a graduall, yet a great performance towards it.</p>
+            <p>That which the Apoſtles and Primitive times did ſo much and ſo long pray for, though never long with much quietneſſe enjoyed, that which our Fathers in theſe latter times have faſted, prayed and mourned after, yet attained not; even the cauſe which many deare Saints now with God, have furthered by extreameſt ſufferings, poverty, impri<g ref="char:EOLhyphen"/>ſonment, baniſhment, death, even ever ſince the firſt dawning of Reformation: That and the very ſame is the very cauſe and worke that we are come now, through the mer<g ref="char:EOLhyphen"/>cy of Jeſus Chriſt, not only to pray for, but ſweare to. And ſurely it can bee no other, but the reſult and anſwer of ſuch prayers and teares of ſuch ſincerity and ſufferings, that three Kingdomes ſhould be thus born, or rather new borne in a day; that theſe King<g ref="char:EOLhyphen"/>domes ſhould be wrought about to ſo great an engagement, then which nothing is higher, for to this end Kings raigne, Kingdomes ſtand, and States are upheld.</p>
+            <p>It is a ſpeciall grace and favour of God unto you Brethren, Reverend and Honorable, to vouchſafe you the opportunity, and to put into your hearts (as this day) to engage your lives and eſtates in matters ſo much concerning him and his glory. And if you ſhould doe no more but lay a foundation ſtone in this great worke, and by ſo doing engage po<g ref="char:EOLhyphen"/>ſterity after you to finiſh it, it were honour enough: But there may yet further uſe bee made of you, who now are to take this Oath, you are deſigned as cheife maſter Builders and choyce Inſtruments for the effecting of this ſetled Peace and Reformation; which if the Lord ſhall pleaſe to finiſh in your hands, a greater happineſſe on earth, nor a greater meanes to augment our glory and crowne in heaven, you are not capable of. And this let me further adde for your encouragement, of what extenſive good and fruit in the ſuc<g ref="char:EOLhyphen"/>ceſſe of it, this very Oath may prove to be, we know not God hath <hi>ſet his Covenant like the Heavens,</hi> not onely for duration, but like alſo for extenſion: The Heavens move and roule about, and ſo communicate their light, and heare, and vertue, to all places and parts of the earth; ſo doth the <hi>Covenant</hi> of God, ſo may this gift bee given to other Co<g ref="char:EOLhyphen"/>venants that are framed to that patterne. How much this ſolemne League and Oath may provoke other Reformed Churches to a further Reformation of themſelves; what light and heate it may communicate abroad to other parts of the world, it is onely in him to define to whom is given the <hi>utmoſt ends of the earth for his inheritance,</hi> and worketh by his exceeding great power great things out of as ſmall beginnings.</p>
+            <p>But however, this I am ſure of, it is a way in all probability moſt likely to enable us to preſerve and defend our Religion againſt <hi>our common enemies,</hi> and poſsible a more ſure foundation this day will be laid for ruining Popery and Prelacie, the cheife of them, then as yet we have been led unto in any age.</p>
+            <p>For Popery, it hath been a Religion ever dexterous in fencing and mounting it ſelfe by aſſociation and joynt ſtrength; all ſorts of profeſſors amongſt them are caſt into Frater<g ref="char:EOLhyphen"/>nities and Bother-hoods, and theſe Orders carefully united by Vow one with another and under ſome more generall notion of common dependency. Such States alſo and King<g ref="char:EOLhyphen"/>domes as they have thus made theirs; they endeavour to improve and ſecure by ſtrict combinations and leagues each to other, witneſſe of late yeares that <hi>La Sainte ligue,</hi> the holy league It will not be unworthy your conſideration, whether ſeeing the pre<g ref="char:EOLhyphen"/>ſervation of Popery hath been by Leagues and Covenants, God may not make a League or Covenant to bee the deſtruction of it: Nay the very riſe of Popery ſeemeth to bee after ſuch a manner by Kings, that is, Kingdomes aſſenting and <hi>agreeing</hi> perhaps by ſome joynt Covenant (the Text ſaith, <hi>with one minde,</hi> why not then with one mouth?) to give their power &amp; ſtrength unto the Beaſt, and make war againſt the Lambe, <hi>Revel.</hi>
+               <pb n="4" facs="tcp:158997:4"/> 17. where you reade the Lambe ſhall overcome the Beaſt, and poſſibly with the ſame weapons, he is the Lord of Lords, and King of Kings, he can unite Kings &amp; Kingdoms, and give them one minde alſo to deſtroy the Whore, and be her utter ruine; And may not this dayes work be a happy beginning of ſuch able ſed expedition.</p>
+            <p>Prelacie, another common enemie, that we Covenant and ſweare againſt, what hath it been, or what hath the ſtrength of it been, but a ſubtile combination of Clergy-men fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>med into a policy or body of their own invention, framing themſelves into Subordi<g ref="char:EOLhyphen"/>nation and Dependency one upon another, ſo that the interreſt of each is improved by all, and a great power by this meanes acquired to themſelves; as by ſad experience wee have lately found: The joynts and Members of this body, you know were knit toge<g ref="char:EOLhyphen"/>ther by the ſacred engagement of an Oath, the Oath of Canonicall obedience as they called it: You remember alſo with what cunning and induſtry they endeavoured lately to make this Oath and Covenant more ſure for themſelves and their poſterity: And in<g ref="char:EOLhyphen"/>tended a more publike, ſolemn, and univerſall engagement, then ſince Popery, this cauſe of theirs was ever maintained or ſupported by. And queſtionleſſe, <hi>Ireland</hi> &amp; <hi>Scotland</hi> alſo muſt at laſt have been brought into this holy league with <hi>England.</hi> But bleſſed be the Lord, and ble ſed be his good hand the Parliament, that from the indignation of their ſpirits againſt ſo horrid a yoke, have daſhed out the very braines of this project; and are now this day preſent before the Lord to take and give poſſeſſion of this bleſſed Ordi<g ref="char:EOLhyphen"/>nance, even an Oath and Covenant as ſolemne and of as large extent as they intended theirs; uniting theſe three Kingdomes into ſuch a league and happy combination as will doubtles preſerve us and our Reformation againſt them, though their iniquity in the mi<g ref="char:EOLhyphen"/>ſteries of it ſhould ſtill be working among us. <hi>Come</hi> therefore (I ſpeake in the words of the Prophet) <hi>let us ioyne our ſelves to the Lord,</hi> and one to another, and each to all, <hi>in a perpetuall Covenant that ſhall not be forgotten.</hi>
+            </p>
+            <p>We are now entring upon a work of the greateſt moment and concernment, to us &amp; to our poſterity after us, that ever was undertaken by any of us, or any of our fore-fathers before us, or neighbouring Nations about us; if the Lord ſhall bleſſe this our beginning, it will be a happy day, and we ſhall be a happy people. An Oath is a duty of the firſt Commandement, and therefore of the higheſt and nobleſt order and rank of duties; there<g ref="char:EOLhyphen"/>fore muſt come forth attended with choyſeſt graces; eſpecially with theſe two, humili<g ref="char:EOLhyphen"/>ty, and feare.</p>
+            <p>Feare, not only of God, which ought to be in an eminent meaſure, <hi>Gen.</hi> 31.53.
+<hi>Ja<g ref="char:EOLhyphen"/>cob</hi> ſware by the feare af his father <hi>Iſaac,</hi> as if he coveted to inherite his fathers grace as well as his fathers God: But alſo feare of an Oath, it being a dreadfull duty, and hath this peculiar, its eſtabliſhed by the oath of God, I have ſworn that unto me every tongue ſhall ſweare, <hi>Iſa</hi> 45.23. Its made the very Character of a Saint, he feares an Oath, <hi>Eccleſ.</hi> 9.2.</p>
+            <p>Humility is another grace requiſite, ſet your hearts before God in an humble obedi<g ref="char:EOLhyphen"/>ent frame, <hi>Deut.</hi> 6. <hi>Thou ſhalt feare the Lord thy God, and ſerve him, and ſweare by his name.</hi> The Apoſtle <hi>Paul</hi> was ſenſible of this engagement, even in the very act of this duty, <hi>Rom.</hi> 1.9. <hi>I call God to witneſſe, whom I ſerve in my ſpirit;</hi> Although it be a work of the lips, yet the heart and whole man muſt be intereſſed, if we expect this worſhip to be acceptable, <hi>Pſal.</hi> 119.108. <hi>Accept the free-will offering of my mouth, and teach me thy judgements.</hi>
+            </p>
+            <p>Alſo it muſt be done in the greateſt ſimplicity and plainneſſe of ſpirit, in reſpect of thoſe with whom we covenant; Wee call God as a witne ſe betwixt us who ſearcheth the heart: <hi>With him is wiſedome and ſtrength, the deceived and deceiver is his,</hi> Job
+12.19. He hath wiſedome to diſcover, and ſtrength to puniſh, if our hearts be not up<g ref="char:EOLhyphen"/>right to our brethren in this matte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Let us be contented with this, that the words of our Covenant be bands; It may not be ſo much as in the deſire of our hearts, that they ſhould
+<pb n="5" facs="tcp:158997:4"/> become ſnares, no not to the weakeſt and ſimpleſt perſon that joyneth with us. In the who<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worke make your addreſſe unto God, as <hi>Jacob</hi> did to his father <hi>Iſaac,</hi> and let there be the like feare and jealouſie over your ſpirits, <hi>Gen.</hi> 27.12. <hi>My father peradventure will feele me, and I ſhall ſeeme to him as a deceiver, and I ſhall bring a curſe upon me, &amp; not a bleſſing.</hi>
+            </p>
+            <p>I take liberty with more earneſtneſſe to preſſe this care upon you, becauſe I have obſerved Oaths and Covenants have been undertaken by us formerly, and by the command of au<g ref="char:EOLhyphen"/>thority, the fruit whereof, though great, yet not anſwered our expectation, the Lord ſurely hath been diſpleaſed with the ſlightneſſe of our hearts in the worke. I beſeech you be more watchfull, and ſtir up your hearts with more induſtry this day then ever before: As it is the laſt Oath you are likely to take in this kinde, ſo is it our laſt refuge, <hi>tabula poſt naufragium:</hi> If this help us not, we are likely to remaine to our dying day an unhappy people, but if otherwiſe, <hi>You will indeed ſweare with all your hearts, and ſeeke the Lord with your whole deſire, God will be found, and give you reſt round about.</hi> 2
+<hi>Chron.</hi> 15.15.</p>
+            <p>And having ſworn, and entred into this ſolemn engagement to God and man, make con<g ref="char:EOLhyphen"/>ſcience to doe accordingly, otherwiſe it is better thou ſhouldſt not vow, <hi>Eccleſ.</hi> 5. As is ſaid of faſting, it is not the bowing down of the head for a day, ſo of this ſolemn ſwearing, it is not the lifting up of the hand for a day; but an honeſt and faithfull endeavouring af<g ref="char:EOLhyphen"/>ter the contents of this Covenant all our dayes; A Truce-breaker is reckoned up amongſt the vileſt of Chriſtians, 2 <hi>Tim.</hi> 3.3. So a Covenant-breaker is lifted among the worſt of Heathens, <hi>Rom.</hi> 1.31. But he that ſweareth and changeth not, though hee ſweare to his hurt, that is, he that will keep his Covenant and Oath, though the contents of it prove not for him, nay poſſibly againſt him, yet he will keep it for his Oaths ſake; ſuch a one <hi>ſhall have his habitation with the moſt High, and dwell in his Tabernacle, Pſalm</hi> 15. And as for you, Reverend Brethren, that are Miniſters of the Goſpell, there is yet anather obli<g ref="char:EOLhyphen"/>gation will lye upon you; let us looke to our ſelves, and make proviſion to walke anſwe<g ref="char:EOLhyphen"/>rable to this our Covenant for the Goſpells ſake; it will reflect a great aſperſion upon the truth of the Goſpell, if we ſhould be falſe or unconſtant in any word or purpoſe, though in a matter of leſſe conſequence, as you can eaſily collect from that apology of <hi>Paul,</hi> 2 <hi>Cor.</hi> 1.17, 18. how much more in ſuch a caſe as this is, if wee ſhould be found to purpoſe, nay more, to vow, and covenant, and ſweare, and all this <hi>according unto the fleſh,</hi> &amp; <hi>with us there ſhould be,</hi> notwithſtanding all theſe obligations, <hi>yea yea,</hi> and <hi>nay nay?</hi>
+            </p>
+            <p>That we may all who take the Covenant this day, be conſtant, immoveable, and abound in this work of the Lord, that we may not ſtart aſide, or give backe, or goe on uncomforta<g ref="char:EOLhyphen"/>bly, there is a two-fold grace or qualification to be laboured after.</p>
+            <p n="1">1. We muſt get courage, ſpirits that are bold and reſolute. It is ſaid in
+<hi>Haggai, that the Lord ſtirred up the ſpirit of</hi> Zerubbabel <hi>Governour of</hi> Judah,
+<hi>and the ſpirit of</hi> Joſhu<g ref="char:EOLhyphen"/>ah <hi>the high Prieſt, and the ſpirit of all the remnant of the people, and they came and did worke in the houſe of the Lord;</hi> the work of Gods houſe: Reformation work eſpecially, is a ſtirring work: read Stories, you finde not any where, Reformation made in any age, either in Doctrine or Diſcipline, without great ſtir and oppoſition. This was foretold by the ſame Prophet, <hi>chap.</hi> 2. <hi>verſ.</hi> 7. the promiſe is, <hi>He will fill his houſe with glory;</hi> but what goeth before? <hi>verſ.</hi>
+6. <hi>Yet once it is a little while and I will ſhake the heavens, and the earth, and the ſea, and the dry land;</hi> that is, <hi>all Nations,</hi> as in the words following. This place is applyed, <hi>Heb.</hi> 12. to the removing Jewiſh Rites, the moveables of Gods houſe. The like you finde in the Apoſtles times, <hi>Acts</hi> 17. the truth being preached, ſome beleeved, others did not; here beginneth the ſtir, <hi>verſ.</hi> 6. thoſe that beleeved not, <hi>tooke unto themſelves certain lewd fellows of the baſer ſort, and gathered a company, and ſet all the City in an uproare:</hi> and when they had done ſo, complained of the brethren to the Rulers, as men <hi>turne the world upſide down, verſ.</hi> 6. Read alſo <hi>Acts</hi> 21.27.30.31. In ſuch a work therefore men had need be of ſtout, reſolute, and compoſed ſpirits, that we may
+<pb n="6" facs="tcp:158997:5"/> be able to goe on in the maine, and ſtir in the midſt of ſuch ſtirs, and not be amuſed at any ſuch doings. It may poſſibly happen, that even amongſt your ſelves there wil be out-cries; Sir, you will undoe all ſaith one; you will put all into confuſion ſaith another; if you take this courſe ſaith a third, we can expect nothing but blood: but a wiſe Stateſ man, like an experienced Sea-man, knoweth the compaſſe of his Veſſell, and though it heave &amp; toſſe, and the paſſengers cry out about him, yet in the midſt of all he is himſelf, turneth not aſide from his work, but ſteereth on his courſe. I beſeech you let it be ſeriouſly conſidered, if you meane to doe any ſuch work in the houſe of God as this is; if you meane to pluck up what many yeares ago was planted, or to build up what ſo long agoe was pulled downe, and goe through with this worke, and not be diſcouraged, you muſt beg of the Lord this excellent ſpirit, this reſolute ſtirring ſpirit, otherwiſe you will be out-ſpirited, and both you and your cauſe ſlighted and diſhonoured.</p>
+            <p n="2">2. On the other hand we muſt labour for humility, prudence, gentleneſſe, meekeneſſe. A man may be very zealous and reſolute, and yet very meeke and mercifull: Jeſus Chriſt was a Lion, and yet a Lambe alſo; in one place he telleth them he commeth to ſend
+<hi>fire on the earth:</hi> and in another place rebuketh his Diſciples for their fiery ſpirits, <hi>Luke</hi> 9.54. There was the like compoſition in <hi>Moſes,</hi> and in
+<hi>Paul,</hi> and it is of great uſe, eſpecially in this worke of Reformation. I have not obſerved an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſputes carried on with more bitter<g ref="char:EOLhyphen"/>neſse in mens writings, and with a more unſanctified heate of ſpirit, yea and by godly men too, then in controverſies about Diſcipline, Church Governement, Ceremonies, and the like. Surely to argue about Governement with ſuch ungoverned paſſions, to argue for Reforma<g ref="char:EOLhyphen"/>tion with a ſpirit ſo unreformed, is very uncomly. Let us be zealous, as Chriſt was, to caſt out all, to extirpate and root out every plant his heavenly Father hath not planted; and yet let us doe it in an orderly way, and with the ſpirit of Chriſt, whoſe ſervants we are. <hi>The ſervant of the Lord muſt not ſtrive, but be gentle to all men, apt to teach, patient, in meek<g ref="char:EOLhyphen"/>neſſe inſtructing thoſe that oppoſe,</hi> 2 <hi>Tim.</hi> 2.24.25. We ſolemnely engage this day our utmoſt endeavours for Reformation; let us remember this, that too much heate, as well as too much coldneſs, may harden men in their waies, and hinder Reformation.</p>
+            <p>Brethren, let us come to this bleſsed worke, with ſuch a frame of heart, with ſuch a mind for the preſent, with ſuch reſolutions for the time to come; let us not bee wanting to the opportunity God hath put into our hands this day; and then can I promiſe you, as the Pro<g ref="char:EOLhyphen"/>phet,
+<hi>Conſider this day and upwards, even from this day, that the foundation of the Lords worke is laid, Conſider it, from this day will I bleſſe you, ſaith the Lord:</hi> Nay wee have received as it were the firſt fruits of this promiſe, for as it's ſaid of <hi>ſome mens good workes, they are manifeſt before hand,</hi> 1 <hi>Tim.</hi> 5. Even ſo may be ſaid of the good work of this day, it's manifeſt before hand, God hath as it were beforehand teſtified his acceptance; while we were thinking and purpoſing this free-will Offering; hee was protecting and defending our Armie, cauſing our enemies the enemies of this worke to fly before us, and gave us a victory, not to be diſpiſed. Surely this Oath and Covenant ſhall be <hi>Iudahs</hi> joy, the joy and comfort of this whole Kingdome: yea, of all three Kingdomes.</p>
+            <p>Jeſus Chriſt King of the Saints govern us by his Spirit, ſtrengthen us by his power, un<g ref="char:EOLhyphen"/>dertake for us according as he hath ſworne, even <hi>The Oath which he ſware to our Father</hi> Abraham, <hi>that he would grant unto us, that we being delivered out of the hands of our ene<g ref="char:EOLhyphen"/>mies, might ſerve him without feare in holineſſe and righteouſneſſe before him all the dayes of our life, Luke</hi> 1. Grant unto us alſo, that when this life is finiſhed, and wee ga<g ref="char:EOLhyphen"/>thered to our Fathers, there may be a generation out of our loynes to ſtand up in this cauſe, that his great and reverend Name may be exalted from one generation to another, untill he himſelfe ſhall come, and perfect all with his owne hand by his owne wiſedome; even ſo come Lord Jeſus, come quickly, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
